@@ -1,0 +1,29 @@
+{
+  "name": "proveedores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechiRexach/proveedores.git"
+  },
+  "author": "Techi Rexach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechiRexach/proveedores/issues"
+  },
+  "homepage": "https://github.com/TechiRexach/proveedores#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "playwright": "^1.11.0"
+  }
+}
